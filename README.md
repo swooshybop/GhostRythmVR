@@ -4,6 +4,9 @@ This is a rhythm-inspired VR mini-game built in Unity using the XR Interaction T
 Instead of slicing color-coded blocks like traditional rhythm games, you fend off waves of invading **ghosts** using a **sword** or **torch-blaster** based on their type.
 
 ---
+## Demo (had some issues with recording, so starts midway)
+https://drive.google.com/file/d/15HvxflVZX3wnWemzcmeenQQ72yVETW_k/view?usp=sharing
+
 
 ## Gameplay Overview
 
